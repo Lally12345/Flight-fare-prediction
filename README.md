@@ -7,7 +7,7 @@ Travelling through flights has become an integral part of today’s lifestyle as
 The main goal is to predict the fares of the flights based on different factors available in the provided dataset.
 
 ## steps to execute this project
-##Data Exploration
+##**Data Exploration**
 
 I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
