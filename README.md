@@ -8,6 +8,6 @@ Travelling through flights has become an integral part of today’s lifestyle as
 ### intall the requirements.txt
 - pip install -r requirements.txt
 
-### rum the app.py file
+### run the app.py file
 - python app.py
 # Thanks 
