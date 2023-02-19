@@ -11,11 +11,11 @@ The main goal is to predict the fares of the flights based on different factors 
 
 I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
-##Data visualization
+**Data visualization**
 
 Ploted colleration matrix to get insights about dependend and independed variables. Made chats like( Bocxplot,countplot,distplot,pairplot).
 
-##Model Selection
+**Model Selection**
 
 Made many Models But selected RandomForest Regressor.
 
